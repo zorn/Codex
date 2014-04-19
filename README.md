@@ -1,4 +1,4 @@
 Codex
 =====
 
-Sharded stuff and a public wiki
+Shared stuff and a public wiki
